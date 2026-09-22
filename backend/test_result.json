@@ -1,0 +1,11 @@
+{
+  "answer": "تعلم الآلة (Machine Learning) هو فرع من فروع الذكاء الاصطناعي يمكن الحاسوب من التعلم من البيانات دون الحاجة إلى برمجة قواعد صريحة لكل حالة.",
+  "sources": [
+    "ml_intro_ar.pdf (p. 1)",
+    "ml_intro_ar.pdf (p. 2)",
+    "llm_and_rag_concepts_en.pdf (p. 1)",
+    "databases_sql_ar.pdf (p. 1)",
+    "python_basics_en.pdf (p. 1)",
+    "llm_and_rag_concepts_en.pdf (p. 2)"
+  ]
+}

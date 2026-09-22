@@ -1,0 +1,6 @@
+{
+  "ما الفرق بين WHERE و HAVING؟": "\"لا يمكنني العثور على هذا في المذكرات المذكورة.\"",
+  "ما الفرق بين git fetch و git pull؟": "الفرق بين git fetch و git pull هو أن git fetch ي tải البيانات من الخادم، بينما git pull ي tải البيانات من الخادم و يضيفها إلى الم branch الحالية.",
+  "What are the ACID properties?": "The ACID properties are Atomicity, Consistency, Isolation, and Durability.\n\n(Source: [4], Page: 2)",
+  "Who won the 2018 FIFA World Cup?": "I could not find this in the provided documents."
+}
